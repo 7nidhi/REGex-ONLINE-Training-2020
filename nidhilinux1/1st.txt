@@ -1,0 +1,9 @@
+1:-They're used in home directories for per user configurations, 
+but they're also used in directories generally to indicate per directory configuration.
+
+2-The reason for those files  are either they are config files which should not be changed daily 
+and are always present as .ssh and .bash_profile so you don't wanna know they are there.It is just a convention.
+ Files at spool are temp files same as many of the others you listed so they should not be edited manually hence they are hidden.
+
+3-they're in a normal user's home directory or the root user's home directory. /etc/skel is supposed to be a prototype 
+for new users' home directories, and the files have the same names there as they will in the newly-created directories.

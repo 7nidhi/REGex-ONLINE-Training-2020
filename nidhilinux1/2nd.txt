@@ -1,0 +1,2 @@
+ceate subdirectory in parent directory with single mkdir
+     #mkdir -p ~/home/college/{class/{IT,CE},dept}

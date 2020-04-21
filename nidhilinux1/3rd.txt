@@ -1,0 +1,13 @@
+CAT command-
+             cat command is to read files and display them , meaning to display the content of files on your terminal.
+              cat command is to read or combine multiple files together and send the output to a monitor.
+              cat can also be used to concatenate (join) multiple files into one single file using the “>” operator.
+               cat is used for creating a new file
+               eg- cat file.txt
+tac command-
+             * tac is practically the reverse version of cat command (also spelled backwards) which prints each line of a 
+             file starting from the bottom line and finishing on the top line to your machine standard output.
+               * the command is represented by the -s switch, which separates the contents of the file based on a string or 
+               a keyword from the file.
+
+              eg -tac file-all.txt --separator "two" 
