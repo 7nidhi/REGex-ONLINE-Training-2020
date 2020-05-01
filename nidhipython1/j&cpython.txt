@@ -1,0 +1,30 @@
+1 what is jpython and cpython.
+     JPYTHON-
+             Jython Or Jpython is the JVM implementation of the Python programming language. It is designed to run on the Java platform. 
+             A Jython program can import and use any Java class. Just as Java, Jython program compiles to bytecode. 
+             One of the main advantages is that a user interface designed in Python can use GUI elements of AWT, Swing or SWT Package.
+               Jython was created in 1997 by Jim Hugunin. It closely follows the standard Python implementation called CPython. 
+                Jython 2.7.0 was released in May 2015, which corresponds to CPython 2.7
+     CPYTHON-
+             CPython is the reference implementation of the Python programming language. Written in C and Python, 
+             CPython is the default and most widely used implementation of the language. 
+             CPython can be defined as both an interpreter and a compiler as it compiles Python code into bytecode before interpreting it.
+              
+
+2-difference between python2 and python3.
+           *	-python 2 was released in 2000 but python3 was released in 2008.
+           *    -python 2 is used the ACSII code but python3 is used UNICODE.
+           *    -python 2 is still entrenched in the software at certian companies but python will take over python 2 by 2020.
+           *    -many older libraries built for python2 are not forward compatible and many of todays developer are creating libraries strictly for use with python 3.
+           *    -python 2 print statement is print"hello"  but in python 3 that is print("hello")
+           *    -in python 2 fuction take data from user (user_input) but in python 3 it is input().
+3- difference between ASCII CODE Aand UNICODE.
+         * unicode is the superset of ASCII.
+           As ASCII only has 256 characters with very few symbols.
+           But unicode on other gives a freedom of writting varies characters not only including English alphabet but including most of other languages in world. .
+           unicode can write upto 65,536 characters and symbols.
+         * Because Unicode characters don't generally fit into one 8-bit byte there are numerous ways of storing Unicode characters in byte
+           sequences, such as UTF-32 , UTF- 16 and UTF-8.
+         * ASCII – American Standard Code for Information Exchange, an encoding standard. This standard was used to encode a certain number of characters, 
+           127 to be exact.Unicode consortium was formed that developed a universal encoding standard. This standard was called Unicode.
+           In Unicode encoding standard, there is a number for every character. The latest version of Unicode has 137, 929 characters.
