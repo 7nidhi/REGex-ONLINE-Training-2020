@@ -1,0 +1,4 @@
+cat < divyu.txt
+
+
+cat> divyu.txt

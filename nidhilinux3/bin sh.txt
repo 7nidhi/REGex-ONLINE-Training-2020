@@ -1,0 +1,5 @@
+cat /etc/shells
+chsh -s /bin/sh
+password-
+sudo chsh -s /bin/sh prince
+password:
